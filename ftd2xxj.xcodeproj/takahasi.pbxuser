@@ -1,0 +1,1292 @@
+// !$*UTF8*$!
+{
+	00E6828EFEC88D1A11DB9C8B /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = 6A9FA6570246BA6C0CC91562 /* FTD2XXj */;
+		activeTarget = EB9FD8610AEECCF5008E157E /* FTD2XXj */;
+		addToTargets = (
+		);
+		codeSenseManager = 0AB364DB0B2F66FD00788B6C /* Code sense */;
+		executables = (
+			6A9FA6570246BA6C0CC91562 /* FTD2XXj */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXErrorsWarningsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXErrorsWarningsDataSource_MessageID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					300,
+					304,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXErrorsWarningsDataSource_TypeID,
+					PBXErrorsWarningsDataSource_MessageID,
+					PBXErrorsWarningsDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					302,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					414,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					428,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					354,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					390,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					374,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 249578084;
+			PBXWorkspaceStateSaveDate = 249578084;
+		};
+		perUserProjectItems = {
+			8F28C1C80EDFF1AC000DA56F /* PBXTextBookmark */ = 8F28C1C80EDFF1AC000DA56F /* PBXTextBookmark */;
+			8F28C1CB0EDFF1AC000DA56F /* PBXTextBookmark */ = 8F28C1CB0EDFF1AC000DA56F /* PBXTextBookmark */;
+			8F28C1CD0EDFF1AC000DA56F /* PBXTextBookmark */ = 8F28C1CD0EDFF1AC000DA56F /* PBXTextBookmark */;
+			8F28C2D30EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2D30EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2D40EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2D40EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2D60EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2D60EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2D80EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2D80EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2DA0EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2DA0EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2E10EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2E10EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2E30EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2E30EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2E50EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2E50EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2E60EDFFAB0000DA56F /* PBXTextBookmark */ = 8F28C2E60EDFFAB0000DA56F /* PBXTextBookmark */;
+			8F28C2EE0EDFFCF8000DA56F /* PBXTextBookmark */ = 8F28C2EE0EDFFCF8000DA56F /* PBXTextBookmark */;
+			8F28C2F60EDFFCF8000DA56F /* PBXTextBookmark */ = 8F28C2F60EDFFCF8000DA56F /* PBXTextBookmark */;
+			8F28C2F80EDFFCF8000DA56F /* PBXTextBookmark */ = 8F28C2F80EDFFCF8000DA56F /* PBXTextBookmark */;
+			8F28C35A0EDFFE35000DA56F /* PBXTextBookmark */ = 8F28C35A0EDFFE35000DA56F /* PBXTextBookmark */;
+			8F28C35B0EDFFE35000DA56F /* PBXTextBookmark */ = 8F28C35B0EDFFE35000DA56F /* PBXTextBookmark */;
+			8F28C35D0EDFFE35000DA56F /* PBXTextBookmark */ = 8F28C35D0EDFFE35000DA56F /* PBXTextBookmark */;
+			8F28C3820EDFFFC3000DA56F /* PBXTextBookmark */ = 8F28C3820EDFFFC3000DA56F /* PBXTextBookmark */;
+			8F28C3840EDFFFC3000DA56F /* PBXTextBookmark */ = 8F28C3840EDFFFC3000DA56F /* PBXTextBookmark */;
+			8F28C3880EDFFFC3000DA56F /* PBXTextBookmark */ = 8F28C3880EDFFFC3000DA56F /* PBXTextBookmark */;
+			8F28C3A30EE00364000DA56F /* PBXTextBookmark */ = 8F28C3A30EE00364000DA56F /* PBXTextBookmark */;
+			8F28C4300EE00E26000DA56F /* PBXTextBookmark */ = 8F28C4300EE00E26000DA56F /* PBXTextBookmark */;
+			8F28C4310EE00E26000DA56F /* PBXTextBookmark */ = 8F28C4310EE00E26000DA56F /* PBXTextBookmark */;
+			8F28C4350EE00E26000DA56F /* PBXTextBookmark */ = 8F28C4350EE00E26000DA56F /* PBXTextBookmark */;
+			8F28C4390EE00E26000DA56F /* PBXTextBookmark */ = 8F28C4390EE00E26000DA56F /* PBXTextBookmark */;
+			8F28C4610EE01471000DA56F /* PBXTextBookmark */ = 8F28C4610EE01471000DA56F /* PBXTextBookmark */;
+			8F28C4DB0EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4DB0EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4EA0EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4EA0EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4EC0EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4EC0EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4F00EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4F00EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4F20EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4F20EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4F40EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4F40EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C4FA0EE03ABD000DA56F /* PBXTextBookmark */ = 8F28C4FA0EE03ABD000DA56F /* PBXTextBookmark */;
+			8F28C5750EE03E8D000DA56F /* PBXTextBookmark */ = 8F28C5750EE03E8D000DA56F /* PBXTextBookmark */;
+			8FF76F4B0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F4B0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F4C0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F4C0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F4D0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F4D0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F4E0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F4E0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F4F0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F4F0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F510EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F510EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F530EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F530EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F540EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F540EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F560EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F560EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F580EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F580EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F5A0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F5A0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F5C0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F5C0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F5D0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F5D0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F5F0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F5F0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F610EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F610EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F620EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F620EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F630EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F630EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F640EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F640EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F650EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F650EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F660EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F660EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F670EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F670EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F690EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F690EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F6B0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F6B0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F6C0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F6C0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F6E0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F6E0EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F700EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F700EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F720EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F720EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F740EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F740EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F750EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F750EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F770EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F770EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F780EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F780EE1F9ED00F1E911 /* PBXTextBookmark */;
+			8FF76F7A0EE1F9ED00F1E911 /* PBXTextBookmark */ = 8FF76F7A0EE1F9ED00F1E911 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0AB364DA0B2F66FD00788B6C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	0A3CC35E0B94BB8800F6BA26 /* java */ = {
+		isa = PBXFileReference;
+		explicitFileType = "compiled.mach-o.executable";
+		name = java;
+		path = /usr/bin/java;
+		sourceTree = "<absolute>";
+	};
+	0AB364DA0B2F66FD00788B6C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	0AB364DB0B2F66FD00788B6C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4CEBA78E08679EF10015D03E /* JNILib */ = {
+		activeExec = 0;
+	};
+	6A9FA6570246BA6C0CC91562 /* FTD2XXj */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+			YES,
+		);
+		argumentStrings = (
+			"-jar FTD2XXj.jar",
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+			"PBXLSLaunchAction-0" = {
+				PBXLSLaunchAction = 0;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXLSRunLaunchConfig;
+				commandLineArgs = (
+				);
+				displayName = "Executable Runner";
+				environment = {
+				};
+				identifier = com.apple.Xcode.launch.runConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+			"PBXLSLaunchAction-1" = {
+				PBXLSLaunchAction = 1;
+				PBXLSLaunchStartAction = 1;
+				PBXLSLaunchStdioStyle = 2;
+				PBXLSLaunchStyle = 0;
+				class = PBXJavaDebuggingNativeLaunchConfig;
+				displayName = "Java Debugger";
+				identifier = com.apple.Xcode.launch.JavaDebugNativeConfig;
+				remoteHostInfo = "";
+				startActionInfo = "";
+			};
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		launchableReference = 0A3CC35E0B94BB8800F6BA26 /* java */;
+		libgmallocEnabled = 0;
+		name = FTD2XXj;
+		sourceDirectories = (
+		);
+		startupPath = dist;
+	};
+	8F28C19B0EDFF026000DA56F /* device.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 3794}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1445}";
+		};
+	};
+	8F28C19C0EDFF026000DA56F /* deviceDescriptor.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {612, 9812}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1408}";
+		};
+	};
+	8F28C1C80EDFF1AC000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C1C90EDFF1AC000DA56F /* ftd2xxj.c */;
+		name = "ftd2xxj.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1329;
+		vrLoc = 0;
+	};
+	8F28C1C90EDFF1AC000DA56F /* ftd2xxj.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = ftd2xxj.c;
+		path = /Users/takahasi/Documents/FTD2XXj/src/ftd2xxj.c;
+		sourceTree = "<absolute>";
+	};
+	8F28C1CB0EDFF1AC000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C19B0EDFF026000DA56F /* device.c */;
+		name = "device.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1497;
+		vrLoc = 0;
+	};
+	8F28C1CD0EDFF1AC000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C19C0EDFF026000DA56F /* deviceDescriptor.c */;
+		name = "deviceDescriptor.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1212;
+		vrLoc = 0;
+	};
+	8F28C2270EDFF51D000DA56F /* deviceDescriptor.c */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.c;
+		name = deviceDescriptor.c;
+		path = /Users/takahasi/Documents/FTD2XXj/src/deviceDescriptor.c;
+		sourceTree = "<absolute>";
+	};
+	8F28C2CC0EDFF963000DA56F /* DeviceType.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceType.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/DeviceType.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2D10EDFFA2C000DA56F /* FTStatus.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = FTStatus.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/FTStatus.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2D30EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2270EDFF51D000DA56F /* deviceDescriptor.c */;
+		name = "deviceDescriptor.c: 620";
+		rLen = 0;
+		rLoc = 21133;
+		rType = 0;
+		vrLen = 1427;
+		vrLoc = 19973;
+	};
+	8F28C2D40EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C1C90EDFF1AC000DA56F /* ftd2xxj.c */;
+		name = "ftd2xxj.c: 15";
+		rLen = 27;
+		rLoc = 324;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 0;
+	};
+	8F28C2D60EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2D70EDFFAB0000DA56F /* DeviceInformationViewer.java */;
+		name = "DeviceInformationViewer.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	8F28C2D70EDFFAB0000DA56F /* DeviceInformationViewer.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceInformationViewer.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/DeviceInformationViewer.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2D80EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2D90EDFFAB0000DA56F /* DeviceDescriptorTableModel.java */;
+		name = "DeviceDescriptorTableModel.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	8F28C2D90EDFFAB0000DA56F /* DeviceDescriptorTableModel.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceDescriptorTableModel.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/deviceDescriptor/DeviceDescriptorTableModel.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2DA0EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2CC0EDFF963000DA56F /* DeviceType.java */;
+		name = "DeviceType.java: 8";
+		rLen = 26;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 0;
+	};
+	8F28C2E10EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2E20EDFFAB0000DA56F /* DeviceInformationViewer.java */;
+		name = "DeviceInformationViewer.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 738;
+		vrLoc = 0;
+	};
+	8F28C2E20EDFFAB0000DA56F /* DeviceInformationViewer.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceInformationViewer.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/DeviceInformationViewer.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2E30EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2E40EDFFAB0000DA56F /* DeviceDescriptorTableModel.java */;
+		name = "DeviceDescriptorTableModel.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1226;
+		vrLoc = 0;
+	};
+	8F28C2E40EDFFAB0000DA56F /* DeviceDescriptorTableModel.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceDescriptorTableModel.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/deviceDescriptor/DeviceDescriptorTableModel.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2E50EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2CC0EDFF963000DA56F /* DeviceType.java */;
+		name = "DeviceType.java: 8";
+		rLen = 26;
+		rLoc = 113;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 0;
+	};
+	8F28C2E60EDFFAB0000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB9FD8720AEECD83008E157E /* build.xml */;
+		name = "build.xml: 43";
+		rLen = 0;
+		rLoc = 2557;
+		rType = 0;
+		vrLen = 1858;
+		vrLoc = 998;
+	};
+	8F28C2EE0EDFFCF8000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2D10EDFFA2C000DA56F /* FTStatus.java */;
+		name = "FTStatus.java: 5";
+		rLen = 20;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	8F28C2F60EDFFCF8000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2D10EDFFA2C000DA56F /* FTStatus.java */;
+		name = "FTStatus.java: 5";
+		rLen = 20;
+		rLoc = 83;
+		rType = 0;
+		vrLen = 811;
+		vrLoc = 0;
+	};
+	8F28C2F80EDFFCF8000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2F90EDFFCF8000DA56F /* Main.java */;
+		name = "Main.java: 1";
+		rLen = 22;
+		rLoc = 8;
+		rType = 0;
+		vrLen = 1483;
+		vrLoc = 3419;
+	};
+	8F28C2F90EDFFCF8000DA56F /* Main.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Main.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/Main.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C2FE0EDFFCF8000DA56F /* Main.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Main.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/ui/Main.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C3000EDFFCF8000DA56F /* Device.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Device.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/Device.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C35A0EDFFE35000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3000EDFFCF8000DA56F /* Device.java */;
+		name = "Device.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 22950;
+	};
+	8F28C35B0EDFFE35000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C2FE0EDFFCF8000DA56F /* Main.java */;
+		name = "Main.java: 1";
+		rLen = 22;
+		rLoc = 8;
+		rType = 0;
+		vrLen = 1440;
+		vrLoc = 0;
+	};
+	8F28C35D0EDFFE35000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3000EDFFCF8000DA56F /* Device.java */;
+		name = "Device.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1310;
+		vrLoc = 22950;
+	};
+	8F28C3820EDFFFC3000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3830EDFFFC3000DA56F /* com_ftdichip_ftd2xx_Device.h */;
+		name = "com_ftdichip_ftd2xx_Device.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	8F28C3830EDFFFC3000DA56F /* com_ftdichip_ftd2xx_Device.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = com_ftdichip_ftd2xx_Device.h;
+		path = /Users/takahasi/Documents/FTD2XXj/src/com_ftdichip_ftd2xx_Device.h;
+		sourceTree = "<absolute>";
+	};
+	8F28C3840EDFFFC3000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C19B0EDFF026000DA56F /* device.c */;
+		name = "device.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1445;
+		vrLoc = 0;
+	};
+	8F28C3880EDFFFC3000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3890EDFFFC3000DA56F /* com_ftdichip_ftd2xx_Device.h */;
+		name = "com_ftdichip_ftd2xx_Device.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1326;
+		vrLoc = 0;
+	};
+	8F28C3890EDFFFC3000DA56F /* com_ftdichip_ftd2xx_Device.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = com_ftdichip_ftd2xx_Device.h;
+		path = /Users/takahasi/Documents/FTD2XXj/src/com_ftdichip_ftd2xx_Device.h;
+		sourceTree = "<absolute>";
+	};
+	8F28C39D0EE000DD000DA56F /* build2.xml */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2064, 4858}}";
+			sepNavSelRange = "{6597, 19}";
+			sepNavVisRange = "{4892, 2802}";
+			sepNavWindowFrame = "{{895, 4}, {794, 1054}}";
+		};
+	};
+	8F28C3A30EE00364000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C39D0EE000DD000DA56F /* build2.xml */;
+		name = "build2.xml: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1744;
+		vrLoc = 8302;
+	};
+	8F28C3A90EE00825000DA56F /* Service.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Service.java;
+		path = /Users/takahasi/Documents/FTD2XXj/src/application/com/ftdichip/ftd2xx/Service.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C4300EE00E26000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3A90EE00825000DA56F /* Service.java */;
+		name = "Service.java: 100";
+		rLen = 4;
+		rLoc = 3262;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 2434;
+	};
+	8F28C4310EE00E26000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C39D0EE000DD000DA56F /* build2.xml */;
+		name = "build2.xml: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1824;
+		vrLoc = 8222;
+	};
+	8F28C4350EE00E26000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C3A90EE00825000DA56F /* Service.java */;
+		name = "Service.java: 100";
+		rLen = 4;
+		rLoc = 3262;
+		rType = 0;
+		vrLen = 1576;
+		vrLoc = 2434;
+	};
+	8F28C4390EE00E26000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C43A0EE00E26000DA56F /* Manifest */;
+		name = "Manifest: 1";
+		rLen = 0;
+		rLoc = 68;
+		rType = 0;
+		vrLen = 39;
+		vrLoc = 0;
+	};
+	8F28C43A0EE00E26000DA56F /* Manifest */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text;
+		name = Manifest;
+		path = /Users/takahasi/Documents/ftd2xxj/resources/Manifest;
+		sourceTree = "<absolute>";
+	};
+	8F28C4610EE01471000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EB9FD8720AEECD83008E157E /* build.xml */;
+		name = "build.xml: 60";
+		rLen = 0;
+		rLoc = 2960;
+		rType = 0;
+		vrLen = 2162;
+		vrLoc = 1565;
+	};
+	8F28C4DB0EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C43A0EE00E26000DA56F /* Manifest */;
+		name = "Manifest: 3";
+		rLen = 0;
+		rLoc = 68;
+		rType = 0;
+		vrLen = 68;
+		vrLoc = 0;
+	};
+	8F28C4EA0EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4EB0EE03ABD000DA56F /* Device.java */;
+		name = "Device.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1398;
+		vrLoc = 13624;
+	};
+	8F28C4EB0EE03ABD000DA56F /* Device.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Device.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/Device.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 12614}}";
+			sepNavSelRange = "{2626, 4}";
+			sepNavVisRange = "{1924, 1073}";
+		};
+	};
+	8F28C4EC0EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4ED0EE03ABD000DA56F /* DeviceType.java */;
+		name = "DeviceType.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 0;
+	};
+	8F28C4ED0EE03ABD000DA56F /* DeviceType.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceType.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceType.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 896}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1010}";
+		};
+	};
+	8F28C4F00EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F10EE03ABD000DA56F /* DeviceDescriptor.java */;
+		name = "DeviceDescriptor.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 0;
+	};
+	8F28C4F10EE03ABD000DA56F /* DeviceDescriptor.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceDescriptor.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceDescriptor.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 5446}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1194}";
+		};
+	};
+	8F28C4F20EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F30EE03ABD000DA56F /* DeviceDescriptorRev4.java */;
+		name = "DeviceDescriptorRev4.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1313;
+		vrLoc = 0;
+	};
+	8F28C4F30EE03ABD000DA56F /* DeviceDescriptorRev4.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceDescriptorRev4.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceDescriptorRev4.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 2338}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1313}";
+		};
+	};
+	8F28C4F40EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F50EE03ABD000DA56F /* DeviceDescriptorRev5.java */;
+		name = "DeviceDescriptorRev5.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 0;
+	};
+	8F28C4F50EE03ABD000DA56F /* DeviceDescriptorRev5.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = DeviceDescriptorRev5.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceDescriptorRev5.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 6958}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1273}";
+		};
+	};
+	8F28C4FA0EE03ABD000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4FB0EE03ABD000DA56F /* BitBangMode.java */;
+		name = "BitBangMode.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 799;
+		vrLoc = 0;
+	};
+	8F28C4FB0EE03ABD000DA56F /* BitBangMode.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = BitBangMode.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/BitBangMode.java;
+		sourceTree = "<absolute>";
+	};
+	8F28C4FD0EE03ABD000DA56F /* Service.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = Service.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/Service.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 4788}}";
+			sepNavSelRange = "{0, 27}";
+			sepNavVisRange = "{2636, 1584}";
+		};
+	};
+	8F28C5750EE03E8D000DA56F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4FD0EE03ABD000DA56F /* Service.java */;
+		name = "Service.java: 1";
+		rLen = 27;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1628;
+		vrLoc = 2636;
+	};
+	8F28C5780EE03E8D000DA56F /* BitBangMode.java */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.java;
+		name = BitBangMode.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/BitBangMode.java;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {592, 1162}}";
+			sepNavSelRange = "{171, 11}";
+			sepNavVisRange = "{154, 852}";
+		};
+	};
+	8FF76F4B0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C5780EE03E8D000DA56F /* BitBangMode.java */;
+		name = "BitBangMode.java: 10";
+		rLen = 11;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 154;
+	};
+	8FF76F4C0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F10EE03ABD000DA56F /* DeviceDescriptor.java */;
+		name = "DeviceDescriptor.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 0;
+	};
+	8FF76F4D0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F30EE03ABD000DA56F /* DeviceDescriptorRev4.java */;
+		name = "DeviceDescriptorRev4.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1313;
+		vrLoc = 0;
+	};
+	8FF76F4E0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F50EE03ABD000DA56F /* DeviceDescriptorRev5.java */;
+		name = "DeviceDescriptorRev5.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 0;
+	};
+	8FF76F4F0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F500EE1F9ED00F1E911 /* DeviceInputStream.java */;
+		name = "DeviceInputStream.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	8FF76F500EE1F9ED00F1E911 /* DeviceInputStream.java */ = {
+		isa = PBXFileReference;
+		name = DeviceInputStream.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceInputStream.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F510EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F520EE1F9ED00F1E911 /* DeviceOututStream.java */;
+		name = "DeviceOututStream.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1190;
+		vrLoc = 0;
+	};
+	8FF76F520EE1F9ED00F1E911 /* DeviceOututStream.java */ = {
+		isa = PBXFileReference;
+		name = DeviceOututStream.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceOututStream.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F530EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4ED0EE03ABD000DA56F /* DeviceType.java */;
+		name = "DeviceType.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 0;
+	};
+	8FF76F540EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F550EE1F9ED00F1E911 /* FTStatus.java */;
+		name = "FTStatus.java: 49";
+		rLen = 4;
+		rLoc = 825;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 428;
+	};
+	8FF76F550EE1F9ED00F1E911 /* FTStatus.java */ = {
+		isa = PBXFileReference;
+		name = FTStatus.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/FTStatus.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F560EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F570EE1F9ED00F1E911 /* FlowControl.java */;
+		name = "FlowControl.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 0;
+	};
+	8FF76F570EE1F9ED00F1E911 /* FlowControl.java */ = {
+		isa = PBXFileReference;
+		name = FlowControl.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/FlowControl.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F580EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F590EE1F9ED00F1E911 /* InvalidDeviceDescriptorException.java */;
+		name = "InvalidDeviceDescriptorException.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 0;
+	};
+	8FF76F590EE1F9ED00F1E911 /* InvalidDeviceDescriptorException.java */ = {
+		isa = PBXFileReference;
+		name = InvalidDeviceDescriptorException.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/InvalidDeviceDescriptorException.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F5A0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F5B0EE1F9ED00F1E911 /* ModemStatus.java */;
+		name = "ModemStatus.java: 46";
+		rLen = 4;
+		rLoc = 857;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 0;
+	};
+	8FF76F5B0EE1F9ED00F1E911 /* ModemStatus.java */ = {
+		isa = PBXFileReference;
+		name = ModemStatus.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/ModemStatus.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F5C0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4FD0EE03ABD000DA56F /* Service.java */;
+		name = "Service.java: 1";
+		rLen = 27;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1584;
+		vrLoc = 2636;
+	};
+	8FF76F5D0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F5E0EE1F9ED00F1E911 /* Port.java */;
+		name = "Port.java: 54";
+		rLen = 4;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 7235;
+	};
+	8FF76F5E0EE1F9ED00F1E911 /* Port.java */ = {
+		isa = PBXFileReference;
+		name = Port.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/Port.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F5F0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F600EE1F9ED00F1E911 /* XXXApp.java */;
+		name = "XXXApp.java: 40";
+		rLen = 48;
+		rLoc = 1140;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 2300;
+	};
+	8FF76F600EE1F9ED00F1E911 /* XXXApp.java */ = {
+		isa = PBXFileReference;
+		name = XXXApp.java;
+		path = /Users/takahasi/Documents/XXXApp/src/XXXApp.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F610EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4EB0EE03ABD000DA56F /* Device.java */;
+		name = "Device.java: 109";
+		rLen = 4;
+		rLoc = 2626;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 1924;
+	};
+	8FF76F620EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C5780EE03E8D000DA56F /* BitBangMode.java */;
+		name = "BitBangMode.java: 10";
+		rLen = 11;
+		rLoc = 171;
+		rType = 0;
+		vrLen = 852;
+		vrLoc = 154;
+	};
+	8FF76F630EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4EB0EE03ABD000DA56F /* Device.java */;
+		name = "Device.java: 590";
+		rLen = 0;
+		rLoc = 14944;
+		rType = 0;
+		vrLen = 1376;
+		vrLoc = 14585;
+	};
+	8FF76F640EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F10EE03ABD000DA56F /* DeviceDescriptor.java */;
+		name = "DeviceDescriptor.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1194;
+		vrLoc = 0;
+	};
+	8FF76F650EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F30EE03ABD000DA56F /* DeviceDescriptorRev4.java */;
+		name = "DeviceDescriptorRev4.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1313;
+		vrLoc = 0;
+	};
+	8FF76F660EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4F50EE03ABD000DA56F /* DeviceDescriptorRev5.java */;
+		name = "DeviceDescriptorRev5.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1273;
+		vrLoc = 0;
+	};
+	8FF76F670EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F680EE1F9ED00F1E911 /* DeviceInputStream.java */;
+		name = "DeviceInputStream.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1012;
+		vrLoc = 0;
+	};
+	8FF76F680EE1F9ED00F1E911 /* DeviceInputStream.java */ = {
+		isa = PBXFileReference;
+		name = DeviceInputStream.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceInputStream.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F690EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F6A0EE1F9ED00F1E911 /* DeviceOututStream.java */;
+		name = "DeviceOututStream.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1190;
+		vrLoc = 0;
+	};
+	8FF76F6A0EE1F9ED00F1E911 /* DeviceOututStream.java */ = {
+		isa = PBXFileReference;
+		name = DeviceOututStream.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/DeviceOututStream.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F6B0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4ED0EE03ABD000DA56F /* DeviceType.java */;
+		name = "DeviceType.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1010;
+		vrLoc = 0;
+	};
+	8FF76F6C0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F6D0EE1F9ED00F1E911 /* FTStatus.java */;
+		name = "FTStatus.java: 49";
+		rLen = 4;
+		rLoc = 825;
+		rType = 0;
+		vrLen = 862;
+		vrLoc = 428;
+	};
+	8FF76F6D0EE1F9ED00F1E911 /* FTStatus.java */ = {
+		isa = PBXFileReference;
+		name = FTStatus.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/FTStatus.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F6E0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F6F0EE1F9ED00F1E911 /* FlowControl.java */;
+		name = "FlowControl.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 0;
+	};
+	8FF76F6F0EE1F9ED00F1E911 /* FlowControl.java */ = {
+		isa = PBXFileReference;
+		name = FlowControl.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/FlowControl.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F700EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F710EE1F9ED00F1E911 /* InvalidDeviceDescriptorException.java */;
+		name = "InvalidDeviceDescriptorException.java: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1186;
+		vrLoc = 0;
+	};
+	8FF76F710EE1F9ED00F1E911 /* InvalidDeviceDescriptorException.java */ = {
+		isa = PBXFileReference;
+		name = InvalidDeviceDescriptorException.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/InvalidDeviceDescriptorException.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F720EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F730EE1F9ED00F1E911 /* ModemStatus.java */;
+		name = "ModemStatus.java: 46";
+		rLen = 4;
+		rLoc = 857;
+		rType = 0;
+		vrLen = 918;
+		vrLoc = 0;
+	};
+	8FF76F730EE1F9ED00F1E911 /* ModemStatus.java */ = {
+		isa = PBXFileReference;
+		name = ModemStatus.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/ModemStatus.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F740EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4FD0EE03ABD000DA56F /* Service.java */;
+		name = "Service.java: 1";
+		rLen = 27;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1584;
+		vrLoc = 2636;
+	};
+	8FF76F750EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F760EE1F9ED00F1E911 /* Port.java */;
+		name = "Port.java: 54";
+		rLen = 4;
+		rLoc = 1146;
+		rType = 0;
+		vrLen = 1429;
+		vrLoc = 7235;
+	};
+	8FF76F760EE1F9ED00F1E911 /* Port.java */ = {
+		isa = PBXFileReference;
+		name = Port.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/Port.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F770EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F28C4EB0EE03ABD000DA56F /* Device.java */;
+		name = "Device.java: 109";
+		rLen = 4;
+		rLoc = 2626;
+		rType = 0;
+		vrLen = 1073;
+		vrLoc = 1924;
+	};
+	8FF76F780EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F790EE1F9ED00F1E911 /* XXXApp.java */;
+		name = "XXXApp.java: 40";
+		rLen = 48;
+		rLoc = 1140;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 2300;
+	};
+	8FF76F790EE1F9ED00F1E911 /* XXXApp.java */ = {
+		isa = PBXFileReference;
+		name = XXXApp.java;
+		path = /Users/takahasi/Documents/XXXApp/src/XXXApp.java;
+		sourceTree = "<absolute>";
+	};
+	8FF76F7A0EE1F9ED00F1E911 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF76F7B0EE1F9ED00F1E911 /* Device.java */;
+		name = "Device.java: 109";
+		rLen = 4;
+		rLoc = 2626;
+		rType = 0;
+		vrLen = 1548;
+		vrLoc = 21651;
+	};
+	8FF76F7B0EE1F9ED00F1E911 /* Device.java */ = {
+		isa = PBXFileReference;
+		name = Device.java;
+		path = /Users/takahasi/Documents/ftd2xxj/src/application/com/ftdichip/ftd2xx/Device.java;
+		sourceTree = "<absolute>";
+	};
+	EB9FD8610AEECCF5008E157E /* FTD2XXj */ = {
+		activeExec = 0;
+	};
+	EB9FD8720AEECD83008E157E /* build.xml */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {954, 1512}}";
+			sepNavSelRange = "{2960, 0}";
+			sepNavVisRange = "{1565, 2162}";
+			sepNavVisRect = "{{0, 8}, {847, 783}}";
+			sepNavWindowFrame = "{{752, 266}, {886, 912}}";
+		};
+	};
+}
